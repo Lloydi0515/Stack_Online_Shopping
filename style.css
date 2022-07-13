@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+.img-1{
+    position: relative;
+    margin: 300px;
+    padding-left: 130px;
+}
+.shopee {
+    height:80px;
+    width: 80px;
+    margin: 20px;
+}
+.lazada {
+    height:80px;
+    width: 80px;
+    margin: 20px;
+}
+.shein {
+    height:80px;
+    width: 80px;
+    margin: 20px;
+}
+.amazon {
+    height:80px;
+    width: 80px;
+    margin: 20px;
+}
+.ebay {
+    height:100px;
+    width: 100px;
+    margin: 20px;
+}
